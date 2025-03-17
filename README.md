@@ -63,18 +63,16 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasmine-boukantar-4293a1273/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/yasmine-boukantar-4293a1273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://www.kaggle.com/linayasmineboukantar">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle" />
+  <a href="https://www.kaggle.com/linayasmineboukantar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="30"/>
   </a>
 </p>
 
 ---
-
 
 ✨ **Thanks for visiting my profile! Feel free to check out my projects.** 🚀  
