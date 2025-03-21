@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/AJAX-02569B?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ---
